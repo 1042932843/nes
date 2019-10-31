@@ -1,0 +1,22 @@
+# ant
+bin
+build
+gen
+out
+
+# intellij
+.idea
+*.iml
+*.def
+
+# eclipse
+.classpath
+.project
+.settings
+.DS_Store
+local.properties
+.gradle
+*.so
+*.nes
+.externalNativeBuild
+.cxx
